@@ -8,7 +8,7 @@
       "phone": "(555) 123-4567",
       "expertise": ["Artificial Intelligence", "Machine Learning", "Data Science"],
       "bio": "Dr. Gagandeep has over 15 years of experience in AI research and has published numerous papers on machine learning algorithms.",
-      "image": "/images/hodMaam.jpg",
+      "image": "/images/hod.jpg",
       "Designation": "Professor"
       
     },
@@ -20,7 +20,7 @@
         "email": "sukhjeet@pbi.ac.in",
         "phone": "",
         "expertise": ["Digital Image Processing Image Watermarking", "Fingerprinting and Steganography", "Medical Image Denoising",  "Face Recognition", "Invariant Moments and Transforms"],
-        "image": "/images/hodMaam.jpg",
+        "image": "/images/Sukhjeet kaur.jpeg",
         "Designation": "Professor"
         
       },
@@ -34,7 +34,7 @@
       "phone": "",
       "expertise": ["Natural Language Processing"],
       "bio": "Prof. Chen focuses on quantum field theory and has collaborated with CERN on several major research projects.",
-      "image": "https://via.placeholder.com/150",
+      "image": "/images/Gurpreetsir.jpg",
       "Designation": "Professor"
     },
     {
@@ -45,7 +45,7 @@
         "email": "sharma_neeraj@hotmail.com",
         "phone": "",
         "expertise": ["AI/ Machine Learning", "Data Science, Software"],
-        "image": "/images/hodMaam.jpg",
+        "image": "/images/Neeraj sharma.jpg",
         "Designation": "Professor"
         
       },
@@ -57,7 +57,7 @@
         "email": "sharma_neeraj@hotmail.com",
         "phone": "",
         "expertise": ["AI/ Machine Learning", "Data Science, Software"],
-        "image": "/images/hodMaam.jpg",
+        "image": "/images/Dharmveersir.jpg",
         "bio": "",
         "WEBSITE": "WWW.DVEER.IN",
         "Designation": "Professor"
@@ -83,7 +83,7 @@
         "email": "vishal.pup@gmail.com",
         "phone": "",
         "expertise": ["Natural Language Processing", "Artificial Intelligence", "Data Analysis", "Data Science", "Machine Learning", "Database Management Systems","PsychoLinguistics", "Technology Development for Differently Abled Persons "],
-        "image": "/images/hodMaam.jpg",
+        "image": "/images/vishalSir.WEBP",
         "bio": " Currently working at Department of Computer Science, Punjabi University, Patiala as Permanent Professor Since 23rd Feb, 2005. (Current Status) ",
         "Designation": "Professor"
         
@@ -109,7 +109,7 @@
         "email": "drrajneeshrandhawa@gmail.com",
         "phone": "",
         "expertise": [" Wireless Sensor Networks", "Optical Networks", "Cloud Computing "],
-        "image": "/images/hodMaam.jpg",
+        "image": "/images/Ranjneesh Mam.jpeg",
         "bio": " Serving as an Assistant Professor in the Department of Computer Science at Punjabi University, Patiala since July 28, 2011, with extensive experience in teaching, research, and academic mentoring. ",
         "Designation": "Assistant Professor"
         
@@ -122,7 +122,7 @@
         "email": "gslehal@gmail.com",
         "phone": "",
         "expertise": ["Research Centre for Punjabi Language", "Literature and Culture Punjabi University, Patiala."],
-        "image": "/images/hodMaam.jpg",
+        "image": "/images/Gurpreetsir.jpg",
         "bio": "  Professor in Department of Computer Science and Engineering, Punjabi University   ",
         "Designation": "Retired Professor"
         

@@ -9,6 +9,7 @@ import Faculty from './pages/Faculty';
 import { ReachUs } from './pages/ReachUs';
 import "slick-carousel/slick/slick.css"; 
 import "slick-carousel/slick/slick-theme.css";
+import Form from './pages/form';
 
 
 function App() {
@@ -22,6 +23,7 @@ function App() {
           <Route path='/Events' element={<Events/>} />
           <Route path='/Faculty' element={<Faculty/>} />
           <Route path="/ReachUs" element={<ReachUs />} />
+          <Route path="/Form" element={<Form />} />
         </Routes>
 
       </div>
